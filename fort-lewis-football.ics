@@ -8,7 +8,7 @@ X-WR-TIMEZONE:America/Denver
 X-WR-CALDESC:Automatically updated Fort Lewis College football schedule
 BEGIN:VEVENT
 UID:vcal_7112-goskyhawks.com
-DTSTAMP:20260906T152733Z
+DTSTAMP:20260908T163729Z
 DTSTART:20260829T170000Z
 DTEND:20260829T200000Z
 LOCATION:Liberty\, Mo., Greene Stadium
@@ -19,29 +19,29 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_7113-goskyhawks.com
-DTSTAMP:20260906T152733Z
+DTSTAMP:20260908T163729Z
 DTSTART:20260906T000000Z
 DTEND:20260906T030000Z
 LOCATION:Durango\, Colo., Ray Dennison Memorial Field
-SUMMARY:[W] Fort Lewis College Football vs Arizona Christian University
-DESCRIPTION:[W] Fort Lewis College Football vs Arizona Christian University\nW 27-9\nStreaming Video: https://rmacnetwork.com/flcskyhawks/\nTickets: https://goskyhawks.com/sports/2023/10/31/ticketing.aspx\n
+SUMMARY:[W] Fort Lewis College Football vs Arizona Christian University - Blackout, 2026 Home Opener
+DESCRIPTION:[W] Fort Lewis College Football vs Arizona Christian University - Blackout, 2026 Home Opener\nW 27-9\nStreaming Video: https://rmacnetwork.com/flcskyhawks/\nTickets: https://goskyhawks.com/sports/2023/10/31/ticketing.aspx\n
 URL:https://goskyhawks.com/calendar.aspx?game_id=7113&amp;sport_id=6
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_7114-goskyhawks.com
-DTSTAMP:20260906T152733Z
+DTSTAMP:20260908T163729Z
 DTSTART:20260913T000000Z
 DTEND:20260913T030000Z
 LOCATION:Durango\, Colo., Ray Dennison Memorial Field
-SUMMARY:Fort Lewis College Football vs New Mexico Highlands University
-DESCRIPTION:Fort Lewis College Football vs New Mexico Highlands University\nStreaming Video: https://rmacnetwork.com/flcskyhawks/\nTickets: https://goskyhawks.com/sports/2023/10/31/ticketing.aspx\n
+SUMMARY:Fort Lewis College Football vs New Mexico Highlands University - Chamber Day, Youth Football, Veterans & First Responders Night
+DESCRIPTION:Fort Lewis College Football vs New Mexico Highlands University - Chamber Day, Youth Football, Veterans & First Responders Night\nStreaming Video: https://rmacnetwork.com/flcskyhawks/\nTickets: https://goskyhawks.com/sports/2023/10/31/ticketing.aspx\n
 URL:https://goskyhawks.com/calendar.aspx?game_id=7114&amp;sport_id=6
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_7115-goskyhawks.com
-DTSTAMP:20260906T152733Z
+DTSTAMP:20260908T163729Z
 DTSTART:20260919T180000Z
 DTEND:20260919T210000Z
 LOCATION:Golden\, Colo., Alumni Field at Marv Kay Stadium
@@ -52,7 +52,7 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_7116-goskyhawks.com
-DTSTAMP:20260906T152733Z
+DTSTAMP:20260908T163729Z
 DTSTART:20260926T190000Z
 DTEND:20260926T220000Z
 LOCATION:Spearfish\, S.D., Lyle Hare Stadium
@@ -63,18 +63,18 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_7117-goskyhawks.com
-DTSTAMP:20260906T152733Z
+DTSTAMP:20260908T163729Z
 DTSTART:20261003T180000Z
 DTEND:20261003T210000Z
 LOCATION:Durango\, Colo., Ray Dennison Memorial Field
-SUMMARY:Fort Lewis College Football vs South Dakota Mines
-DESCRIPTION:Fort Lewis College Football vs South Dakota Mines\nStreaming Video: https://rmacnetwork.com/flcskyhawks/\nTickets: https://goskyhawks.com/sports/2023/10/31/ticketing.aspx\n
+SUMMARY:Fort Lewis College Football vs South Dakota Mines - Stars of Honor, Pink Game
+DESCRIPTION:Fort Lewis College Football vs South Dakota Mines - Stars of Honor, Pink Game\nStreaming Video: https://rmacnetwork.com/flcskyhawks/\nTickets: https://goskyhawks.com/sports/2023/10/31/ticketing.aspx\n
 URL:https://goskyhawks.com/calendar.aspx?game_id=7117&amp;sport_id=6
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_7118-goskyhawks.com
-DTSTAMP:20260906T152733Z
+DTSTAMP:20260908T163729Z
 DTSTART:20261018T000000Z
 DTEND:20261018T030000Z
 LOCATION:Gunnison\, Colo., Mojo Field at Mountaineer Bowl at The Rady Family Sports Complex 
@@ -85,18 +85,18 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_7119-goskyhawks.com
-DTSTAMP:20260906T152733Z
+DTSTAMP:20260908T163729Z
 DTSTART:20261024T180000Z
 DTEND:20261024T210000Z
 LOCATION:Durango\, Colo., Ray Dennison Memorial Field
-SUMMARY:Fort Lewis College Football vs CSU Pueblo - Homecoming 
-DESCRIPTION:Fort Lewis College Football vs CSU Pueblo - Homecoming \nStreaming Video: https://rmacnetwork.com/flcskyhawks/\nTickets: https://goskyhawks.com/sports/2023/10/31/ticketing.aspx\n
+SUMMARY:Fort Lewis College Football vs CSU Pueblo - Homecoming
+DESCRIPTION:Fort Lewis College Football vs CSU Pueblo - Homecoming\nStreaming Video: https://rmacnetwork.com/flcskyhawks/\nTickets: https://goskyhawks.com/sports/2023/10/31/ticketing.aspx\n
 URL:https://goskyhawks.com/calendar.aspx?game_id=7119&amp;sport_id=6
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_7120-goskyhawks.com
-DTSTAMP:20260906T152733Z
+DTSTAMP:20260908T163729Z
 DTSTART:20261031T190000Z
 DTEND:20261031T220000Z
 LOCATION:Chadron\, Neb., Elliot Field at Don Beebe Stadium
@@ -107,18 +107,18 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_7121-goskyhawks.com
-DTSTAMP:20260906T152733Z
+DTSTAMP:20260908T163729Z
 DTSTART:20261107T190000Z
 DTEND:20261107T220000Z
 LOCATION:Durango\, Colo., Ray Dennison Memorial Field
-SUMMARY:Fort Lewis College Football vs Colorado Mesa University - Senior Day
-DESCRIPTION:Fort Lewis College Football vs Colorado Mesa University - Senior Day\nStreaming Video: https://rmacnetwork.com/flcskyhawks/\nTickets: https://goskyhawks.com/sports/2023/10/31/ticketing.aspx\n
+SUMMARY:Fort Lewis College Football vs Colorado Mesa University - Senior Day, Nike N7
+DESCRIPTION:Fort Lewis College Football vs Colorado Mesa University - Senior Day, Nike N7\nStreaming Video: https://rmacnetwork.com/flcskyhawks/\nTickets: https://goskyhawks.com/sports/2023/10/31/ticketing.aspx\n
 URL:https://goskyhawks.com/calendar.aspx?game_id=7121&amp;sport_id=6
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_7122-goskyhawks.com
-DTSTAMP:20260906T152733Z
+DTSTAMP:20260908T163729Z
 DTSTART:20261114T210000Z
 DTEND:20261115T000000Z
 LOCATION:Alamosa\, Colo., Rex Field
@@ -129,7 +129,7 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_7123-goskyhawks.com
-DTSTAMP:20260906T152733Z
+DTSTAMP:20260908T163729Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 LOCATION:Campus Site of Higher Seed
@@ -140,7 +140,7 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_7124-goskyhawks.com
-DTSTAMP:20260906T152733Z
+DTSTAMP:20260908T163729Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 LOCATION:Campus Site of Higher Seed
@@ -151,7 +151,7 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_7125-goskyhawks.com
-DTSTAMP:20260906T152733Z
+DTSTAMP:20260908T163729Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 LOCATION:Campus Site of Higher Seed
@@ -162,7 +162,7 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_7126-goskyhawks.com
-DTSTAMP:20260906T152733Z
+DTSTAMP:20260908T163729Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 LOCATION:Campus Site of Higher Seed
@@ -173,7 +173,7 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_7127-goskyhawks.com
-DTSTAMP:20260906T152733Z
+DTSTAMP:20260908T163729Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 LOCATION:McKinney\, Texas, McKinney ISD Stadium
